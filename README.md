@@ -1,7 +1,7 @@
 # SimpleProcessor
 Designing and simulating a 16-bit Micro Processor using Verilog HDL.
 
-The project was done as a part of CSE: undergraduate course at Faculty of Engineering, ASU. 
+The project was done as a part of CSE311: Computer Organization(2) undergraduate course at Faculty of Engineering, ASU (Fall 2012). 
 
 This project includes the design of a simple 16-bit Micro processor, and modeling of its components using Verilog HDL. This processor is NON-pipelined processor, including sequential blocks such as: registers and memory, and combinational blocks such as: ALU and control unit. Also, there are some complex blocks such as the data bus, has been modeled using behavioral approach, whereas some simple blocks such as: registers modules has been modeled using structural approach, and there are some mixed blocks as: Control unit which has been modeled using both behavioral and structural modeling.
 	
